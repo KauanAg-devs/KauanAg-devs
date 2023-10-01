@@ -1,5 +1,8 @@
 ### Hi there 👋
-
+### I'm a software developer that studies a lot and tries to help anyone. 
+### I'm a mongoDB/Typescript/React developer.
+### 3 years of knowledge.
+### I'm currently learning more about software engineering and Docker. 
 <!--
 **KauanAg-devs/KauanAg-devs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
