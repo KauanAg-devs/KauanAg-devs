@@ -41,15 +41,6 @@ Sempre buscando código limpo, testes automatizados e boas práticas. ⚽💻
 
 ---
 
-## 📌 Projetos em destaque
-
-### 🎯 [Stats Soccer](https://github.com/KauanAg-devs/stats-soccer)
-> Plataforma de quizzes de futebol com Laravel + Next.js
-
-![Preview do Stats Soccer](https://raw.githubusercontent.com/KauanAg-devs/stats-soccer/main/.github/images/project-result.png)
-
----
-
 ## 📫 Onde me encontrar
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/kauan-aguiar/)
