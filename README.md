@@ -13,6 +13,7 @@ Sempre buscando código limpo, testes automatizados e boas práticas. ⚽💻
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql)
 ![Prisma](https://img.shields.io/badge/-Prisma-2D3748?style=flat&logo=prisma)
+![Swagger](https://img.shields.io/badge/-Swagger-85EA2D?style=flat&logo=swagger)
 
 ### 🎨 Frontend
 ![Next.js](https://img.shields.io/badge/-Next.js-000?style=flat&logo=nextdotjs)
