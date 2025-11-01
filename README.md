@@ -108,3 +108,4 @@ Always seeking clean code, automated tests, and best practices. ⚽💻
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/kauan-aguiar/)
 [![Gmail](https://img.shields.io/badge/kauanbarcelos77+dev@gmail.com-c14438?style=flat&logo=gmail&logoColor=white)](mailto:kauan.aguiar.dev@gmail.com)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)](https://github.com/KauanAg-devs)
+
